@@ -12,6 +12,8 @@ def print_hi(name):
 def get_name():
     name = input()
     return name
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi(get_name())
